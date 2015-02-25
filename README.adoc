@@ -1,0 +1,12 @@
+pictures of my cat
+==================
+
+image::pics/angry_looking_cat.jpg[]
+
+image::pics/cat_at_the_vet.jpg[]
+
+image::pics/cat_on_a_couch.jpg[]
+
+image::pics/cat_on_a_different_couch.jpg[]
+
+image::pics/cat_probably_wants_something.jpg[]
